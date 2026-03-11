@@ -206,5 +206,31 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# IGNORAR .VAGRANT
+# --- Archivos de Vagrant (Lo que causó tu problema) ---
 .vagrant/
+Vagrantfile.local
+
+# --- Secretos y Variables de entorno ---
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.secret
+
+# --- Configuración de IDEs y editores ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Dependencias (Nunca subas esto al repo) ---
+node_modules/
+vendor/
+dist/
+build/
+
+# --- Logs y archivos temporales ---
+*.log
+*.tmp
+*.bak
