@@ -1,6 +1,10 @@
+<img src="./images/Foto_CV_baja.png" alt="Miguel Amorós" width="120" style="float: left; margin-right: 20px; border-radius: 50%;">
+
 # Miguel Amorós Moret
 
 ### Cloud Engineer Junior · AWS · Infrastructure as Code
+
+<div style="clear: both;"></div>
 
 Systems technician with 4 years of experience keeping critical infrastructure running in a 24/7 production environment, where any failure had real consequences. Alongside that, I've built a portfolio of 6 cloud projects on AWS on my own initiative — from Infrastructure as Code architectures to a production Kubernetes cluster and a high-availability deployment with tested automatic recovery.
 
