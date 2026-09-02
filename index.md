@@ -6,7 +6,7 @@
 
 <div style="clear: both;"></div>
 
-Systems technician with 4 years of experience keeping critical infrastructure running in a 24/7 production environment, where any failure had real consequences. Alongside that, I've built a portfolio of 6 cloud projects on AWS on my own initiative — from Infrastructure as Code architectures to a production Kubernetes cluster and a high-availability deployment with tested automatic recovery.
+Systems technician with 4 years of experience keeping critical infrastructure running in a 24/7 production environment, where any failure had real consequences. Alongside that, I've built a portfolio of cloud projects on AWS on my own initiative — from Infrastructure as Code architectures to a production Kubernetes cluster and a high-availability deployment with tested automatic recovery.
 
 📍 Barcelona · Remote / Hybrid · Available immediately
 📧 [miguel14amoros@gmail.com](mailto:miguel14amoros@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/miguel-amoros-moret) · 🐙 [GitHub](https://github.com/mamoros-dev)
